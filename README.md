@@ -509,6 +509,3 @@ MIT License
 # 👨‍💻 Autor
 
 Projeto desenvolvido com foco em aprendizado avançado de arquitetura MERN, APIs REST e construção de produtos SaaS modernos.
-
-```
-```
